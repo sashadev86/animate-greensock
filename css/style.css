@@ -294,7 +294,7 @@ img {
 }
 
 .menu {
-  display: none;
+  /* display: none; */
   position: absolute;
   left: 0;
   top: 0;
@@ -304,9 +304,9 @@ img {
   background-color: #373737;
 }
 
-.menu.menu--open {
+/* .menu.menu--open {
   display: block;
-}
+} */
 
 .menu__top {
   padding: 49px 0;
