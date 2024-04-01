@@ -1,2 +1,2 @@
 # animate-greensock
-https://djvalentinoff.github.io/animate-greensock/
+https://sashadev86.github.io/animate-greensock/
